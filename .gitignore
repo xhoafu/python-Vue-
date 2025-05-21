@@ -1,0 +1,5 @@
+*.sqlite3
+media/
+数据/
+*/migrations/*.py
+!*/migrations/__init__.py
